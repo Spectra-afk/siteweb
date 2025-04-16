@@ -1,0 +1,7 @@
+header{
+display:flex;
+justify-content:space-between;
+}
+form[type="images"]{
+height: 2em
+}
